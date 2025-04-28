@@ -17,5 +17,7 @@ public class ExecuteMessage {
     private String errorMessage;
     //执行时间
     private Long time;
+    //最大内存
+    private Long maxMemory;
 }
 
